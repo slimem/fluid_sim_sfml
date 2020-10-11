@@ -48,6 +48,7 @@ After determining the movement of the velocity field, the simulation then determ
 
 # IMPORTANT
 SFML is required to compile this project. You can get it here: https://www.sfml-dev.org/download.php
+
 This work is based on the thesis of *Michael Ash* https://www.mikeash.com/thesis/thesis-en.pdf
 
 Enjoy this little project as you see fit, and feel free to contact me!
