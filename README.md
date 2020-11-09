@@ -1,7 +1,7 @@
 # fluid_sim_sfml
 An interactive fluid simulation based on the Navier-Stokes equations
 
-![fluid_sim_sfml screenshot](fluid_sim_sfml.png)
+![fluid_sim_gif](fluid_1.gif)
 
 # USAGE
 ## Adding fluid
